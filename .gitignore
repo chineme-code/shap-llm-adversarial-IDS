@@ -1,0 +1,24 @@
+# Secrets - never commit your API key
+.env
+
+# Virtual environment
+xai-sme-env/
+venv/
+.venv/
+
+# Datasets (too large / redistribute from source, see data/README.md)
+data/*.xlsx
+data/*.csv
+# Small dashboard sample is safe to keep
+!data/X_test_sample.csv
+
+# Trained models (regenerate with src/run_ids2025.py)
+models/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

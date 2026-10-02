@@ -1,0 +1,7 @@
+[
+  {"budget": 0.05, "mean_jaccard": 0.351, "min_jaccard": 0.0, "pct_disrupted": 85.0, "n_samples": 20},
+  {"budget": 0.10, "mean_jaccard": 0.353, "min_jaccard": 0.0, "pct_disrupted": 85.0, "n_samples": 20},
+  {"budget": 0.25, "mean_jaccard": 0.337, "min_jaccard": 0.0, "pct_disrupted": 85.0, "n_samples": 20},
+  {"budget": 0.50, "mean_jaccard": 0.308, "min_jaccard": 0.0, "pct_disrupted": 85.0, "n_samples": 20},
+  {"budget": 1.00, "mean_jaccard": 0.323, "min_jaccard": 0.0, "pct_disrupted": 85.0, "n_samples": 20}
+]

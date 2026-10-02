@@ -1,0 +1,23 @@
+# Core data + modeling
+pandas
+numpy
+scikit-learn
+xgboost
+imbalanced-learn
+openpyxl          # required to read the IDS2025 .xlsx file
+
+# Explainability
+shap
+scipy             # spearman correlation in the RQ6 attack
+
+# LLM translation layer
+anthropic
+python-dotenv
+
+# Dashboard + plots
+streamlit
+matplotlib
+
+# Notebook
+jupyter
+notebook
